@@ -44,6 +44,6 @@ def consume_messages(max_empty_polls=5):
 
     print("No new messages, exiting.")
 
-b
+
 if __name__ == "__main__":
     consume_messages()
